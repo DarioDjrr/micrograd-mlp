@@ -1,8 +1,6 @@
 # micrograd-mlp
 
-Red neuronal (perceptrón multicapa) construida **desde cero en Python puro**, con su propio motor de
-autodiferenciación. Sin NumPy, sin PyTorch: solo la librería estándar. Proyecto educativo para entender
-cómo funciona la retropropagación (*backpropagation*).
+Perceptrón multicapa (MLP) construido desde cero en Python puro, con su propio motor de autodiferenciación. Sin NumPy ni PyTorch: solo la librería estándar. Proyecto educativo para familiarizarme con la retropropagación (backpropagation).
 
 ## Características
 
